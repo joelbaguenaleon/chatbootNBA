@@ -1,0 +1,72 @@
+========================================
+      MANUAL DE USUARIO - CHATBOT NBA
+========================================
+
+1. DESCRIPCIÓN GENERAL
+----------------------------------------
+Chatbot NBA es una aplicación de escritorio que permite consultar 
+información sobre la NBA mediante un sistema de chat.
+
+El usuario puede escribir preguntas y el sistema responderá con 
+información sobre equipos, jugadores, partidos o clasificación.
+
+----------------------------------------
+2. REQUISITOS
+----------------------------------------
+- Sistema operativo Windows
+- No es necesario instalar Java ni Python (incluidos en la app)
+
+----------------------------------------
+3. EJECUCIÓN DE LA APLICACIÓN
+----------------------------------------
+1. Abrir la carpeta chatbotNBA
+2. Ejecutar el archivo: chatbotNBA.exe
+3. Esperar unos segundos a que la aplicación se inicie
+
+----------------------------------------
+4. USO DE LA APLICACIÓN
+----------------------------------------
+
+4.1 Escribir una consulta
+- Escribe tu pregunta en la barra inferior
+- Pulsa el botón "Enviar" o presiona ENTER
+-en preguntas.txt ha una lista de preguntas que pude responder el chat
+
+Ejemplos:
+- "jugadores de lakers"
+- "partidos hoy"
+- "clasificación nba"
+- "estadisticas durant"
+
+4.2 Ver respuestas
+- Las respuestas aparecerán en el chat en forma de mensajes
+
+4.3 Limpiar chat
+- Pulsa el botón "Limpiar" para reiniciar la conversación
+
+----------------------------------------
+5. POSIBLES ERRORES
+----------------------------------------
+
+- La aplicación no responde:
+  -> Esperar unos segundos (puede estar cargando datos)
+
+- No se obtiene respuesta:
+  -> Revisar la conexión a internet
+
+- Error al iniciar:
+  -> Asegurarse de ejecutar desde la carpeta completa
+
+----------------------------------------
+6. RECOMENDACIONES
+----------------------------------------
+- Ejecutar siempre desde la carpeta original
+- No mover archivos internos (backend, jre, etc.)
+
+----------------------------------------
+7. AUTOR
+----------------------------------------
+Desarrollado por: Joel
+Proyecto DAM - ChatbotNBA
+10-04-2026
+========================================

@@ -1,0 +1,32 @@
+-partidos hoy
+-que partidos hay hoy
+-quien juega hoy
+-ultimos (equipo)
+-ultimos partidos (equipo)
+-ultimos partidos de (equipo)
+-ultimos (equipo)
+-jugadores de (equipo)
+-jugadores (equipo)
+-platilla (equipo)
+-info (equipo)
+-información (equipo)
+-información (equipo)
+-en que equipo juega (jugador)
+-equipo de (jugador)
+-donde juega (jugador)
+-información (jugador)
+-dorsal (jugador)
+-que dorsal tiene (jugador)
+-info de (jugador)
+-info (jugador)
+-posición (jugador)
+-posición (jugador)
+-estadisticas (jugador)
+-estadisticas (jugador)
+-estadisticas de (jugador)
+como va (jugador) esta temporada
+-CLASIFICACION: clasificacion nba, clasificación nba, tabla nba, posiciones nba
+-SALUDOS: hola, buenas, hey, holi
+-DESPEDIDAS: adiós, adios, hasta luego, nos vemos, bye
+-AYUDA: ayuda, qué puedes hacer, que puedes hacer, opciones
+-IDENTIDAD: quíen eres, quien eres, qué eres, que eres
