@@ -11,11 +11,4 @@ public class Main {
     }
 }
 
-/**
- * Interfaz gráfica desarrollada con Java Swing que se comunica
- * con un backend en Python mediante una API local.
- * Funcionalidades:
- * - Chat interactivo 
- * - Conexión automática con backend
- * - Envío asíncrono de mensajes
- */
+
